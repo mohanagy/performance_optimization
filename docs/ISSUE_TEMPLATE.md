@@ -14,7 +14,7 @@
 
 ## Why ?
 
-- [ ] Is your issue for adding new resource?
+- [ ] Is your issue for adding a new resource?
 - [ ] Is your issue for deleting exists resource ?
 - [ ] Is your issue for replacing exists resource ?
 - [ ] Is the resource is hard to use ?
@@ -29,4 +29,4 @@ The name of the resource is : **Replace this**
 
 ### Tell us more :
 
->Replace this lines
+>Replace these lines

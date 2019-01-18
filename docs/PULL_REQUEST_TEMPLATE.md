@@ -1,9 +1,9 @@
-# Before opening an pull request
+# Before opening a pull request
 
 ## Main rules
 
 - It should be a useful resource
-- [Search for exist resources](https://github.com/mohanagy/performance_optimization/blob/master/README.md)
+- [Search for existing resources](https://github.com/mohanagy/performance_optimization/blob/master/README.md)
 - choose a good title for your issue
 - Read the [contributing guidelines](https://github.com/mohanagy/performance_optimization/blob/master/CONTRIBUTING.md)
 
@@ -21,7 +21,7 @@
 
 > Replace This  
 
-## Is this resource limited on specific environment
+## Is this resource-limited in a specific environment
 
 >Replace this and tell us which environment should we use
 

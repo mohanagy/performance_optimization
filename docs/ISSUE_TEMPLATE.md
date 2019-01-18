@@ -4,7 +4,7 @@
 
 - [Search for duplicate or closed issues](https://github.com/mohanagy/performance_optimization/issues)
 - choose a good title for your issue
-- Read the [contributing guidelines](https://github.com/mohanagy/performance_optimization/master/CONTRIBUTING.md)
+- Read the [contributing guidelines](https://github.com/mohanagy/performance_optimization/blob/master/CONTRIBUTING.md)
 
 ---
 

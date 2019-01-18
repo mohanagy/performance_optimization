@@ -9,6 +9,10 @@
 
 ---
 
+## **Delete  everything before the next line**
+
+---
+
 ## What is the name of the resource
 
 > The name of the resource is  ### **Replace This**

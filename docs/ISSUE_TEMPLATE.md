@@ -8,6 +8,10 @@
 
 ---
 
+## **Delete  everything before the next line**
+
+---
+
 ## Why ?
 
 - [ ] Is your issue for adding new resource?
